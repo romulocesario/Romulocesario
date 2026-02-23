@@ -1,50 +1,28 @@
-# 👨‍💻 Rômulo C.
+# 👋 Olá, eu sou o Rômulo
 
-## Analista de Dados Júnior | SQL • Python • Power BI
+Sou Analista de Dados Júnior em transição de carreira.
 
-Profissional em transição para a área de Dados, unindo 16 anos de experiência em vendas e gestão comercial com análise orientada a métricas.
+Depois de 16 anos trabalhando com vendas e gestão comercial, decidi migrar para a área de dados para aprofundar algo que sempre fez parte do meu dia a dia: analisar números para melhorar resultados.
 
-Estou em constante evolução técnica, desenvolvendo projetos práticos em SQL, Python e Power BI com foco em performance comercial e análise financeira.
+Hoje estudo e desenvolvo projetos com:
 
-Meu objetivo é transformar dados em direcionamento estratégico para tomada de decisão.
-
----
-
-## 🚀 Em Desenvolvimento
-
-Atualmente aprofundando conhecimentos em:
-
-- Consultas SQL avançadas
-- Análise exploratória de dados (EDA)
-- Construção de dashboards executivos
-- Modelagem de KPIs comerciais
-- Estruturação de projetos com versionamento no GitHub
-
----
-
-## 📂 Projetos Práticos
-
-📊 Análise de Performance Comercial (SQL)  
-📈 Dashboard de Indicadores de Vendas  
-💰 Análise de Fluxo de Caixa com Python  
-
-*(Confira os repositórios fixados abaixo)*
-
----
-
-## 🛠 Stack Técnica
-
-- SQL (Joins, Group By, Subqueries)
-- Python (Pandas, Matplotlib)
+- SQL
+- Python
 - Power BI
-- Excel Avançado
-- Análise de KPIs
+- Excel
+
+Tenho interesse especial em análise de performance comercial, indicadores de vendas e dados financeiros.
 
 ---
 
-## 🎯 Objetivo Profissional
+## 📂 O que você vai encontrar aqui
 
-Atuar como Analista de Dados Júnior em ambientes que valorizem análise orientada a resultado, melhoria de performance e crescimento sustentável.
+- Projetos práticos de SQL
+- Análises exploratórias com Python
+- Dashboards de indicadores comerciais
+- Exercícios organizados por tecnologia
+
+Estou construindo meu portfólio de forma consistente, aplicando conhecimento técnico junto com minha experiência de negócio.
 
 ---
 
