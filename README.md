@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👨‍💻 Rômulo C.
 
-<!--
-**romulocesario/Romulocesario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Analista de Dados | SQL • Python • Power BI
 
-Here are some ideas to get you started:
+Transformo dados comerciais em decisões estratégicas orientadas por métricas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Com 16 anos de experiência em vendas e gestão comercial, aplico visão de negócio aliada à análise de dados para gerar impacto real em performance.
+
+---
+
+## 🚀 Projetos em Destaque
+
+📊 Em construção
+
+---
+
+## 🛠 Stack
+
+- SQL
+- Python
+- Power BI
+- Excel Avançado
+- Análise de KPIs
+
+---
+
+📍 São Paulo - SP  
+🔗 LinkedIn: https://www.linkedin.com/in/rômulo-cesario/
