@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rômulo
 
-Sou Analista de Dados Júnior em transição de carreira.
+Sou Analista de Dados em transição de carreira.
 
 Depois de 16 anos trabalhando com vendas e gestão comercial, decidi migrar para a área de dados para aprofundar algo que sempre fez parte do meu dia a dia: analisar números para melhorar resultados.
 
